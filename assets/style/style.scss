@@ -1,0 +1,22 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 100%
+}
+
+input,
+select {
+  @apply px-10 py-2 border-2 border-solid border-gray-400 rounded-md shadow-sm text-sm w-full
+}
+
+select {
+  @apply px-2 py-2 text-gray-400
+}
+
+input:focus,
+select:focus {
+  @apply outline-none border-primary
+}
