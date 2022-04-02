@@ -47,8 +47,8 @@
         ref="baseNav"
       >
         <base-img
-          :img="fixed ? 'logo_black.png' : 'logo_white.png'"
-          class="w-40 h-auto self-center"
+          :img="'logo_white.png'"
+          class="w-36 h-auto self-center"
           alt="X&Z logo"
         />
         <button

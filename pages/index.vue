@@ -16,8 +16,8 @@
     <footer class="bg-black mt-20 p-10 text-center">
       <base-img img="logo_white.png" alt="X&Z Logo" />
       <div class="w-full border border-solid border-muted my-10"></div>
-      <div class="copy-right text-white">
-        Copyright &copy;2022 X&Y , Designed By
+      <div class="copy-right text-white text-sm">
+        Copyrights &copy;2022 X&Y , Designed By
         <a href="#" class="text-primary">Ahmed</a>
       </div>
     </footer>
@@ -54,7 +54,7 @@ export default {
 <style lang="scss">
 footer {
   img {
-    width: 200px;
+    width: 150px;
     margin: auto;
   }
 }
