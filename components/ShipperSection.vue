@@ -12,7 +12,7 @@
   >
     <div class="container">
       <div class="shipper-content relative text-center text-white">
-        <span class="text-sm text-primary">Shippment</span>
+        <span class="text-sm bg-primary text-white p-1">Shippment</span>
         <h3 class="text-2xl sm:text-4xl font-bold">
           Are You A Shipper? You Can Download <br />Our Application
         </h3>

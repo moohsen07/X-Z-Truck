@@ -25,7 +25,7 @@
         </div>
 
         <div class="about-us-content">
-          <span class="text-sm text-primary">About Company</span>
+          <span class="text-sm bg-primary text-white p-1">About Company</span>
           <h3 class="text-4xl font-bold mb-5">
             Modern And Trusted Logistic Company
           </h3>

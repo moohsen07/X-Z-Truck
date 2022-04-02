@@ -12,7 +12,7 @@
   >
     <div class="container">
       <div class="content text-center relative">
-        <span class="text-sm text-primary">Clients Words</span>
+        <span class="text-sm bg-primary text-white p-1">Clients Words</span>
         <h3 class="text-2xl text-white sm:text-4xl font-bold">
           What Our Client Say
         </h3>
